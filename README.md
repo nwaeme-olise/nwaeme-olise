@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! I'm Olise 👋
 
-- 🔭 I'm an Android developer specializing in Kotlin with a year's experience.
+- 🔭 I'm an Android Developer specializing in Kotlin with a year's experience.
 - 🌱 I’m currently learning to develop native Android apps with Kotlin.
 - 👯 I’m looking to collaborate on Android Open-source projects.
 - 📫 You can reach out to me via [LinkedIn](https://linkedin.com/in/olisemeka-nwaeme) or my e-mail, onwaeme@gmail.com.
