@@ -6,8 +6,8 @@
 - 📫 You can reach out to me via [LinkedIn](https://linkedin.com/in/olisemeka-nwaeme) or my e-mail, onwaeme@gmail.com.
 - ⚡ Fun fact: I am a massive supporter of Arsenal Football Club, and I really believe we will win the League this year! :fire:
 
-Languages and Tools
-
+##Languages and Tools
+      <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -19,6 +19,6 @@ Languages and Tools
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          
+     </div>     
           
           
