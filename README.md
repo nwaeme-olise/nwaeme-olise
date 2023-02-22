@@ -18,5 +18,11 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub"  alt="GitHub" width="70" height="70"/>
 </div>
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nwaeme-olise&theme=dark&background=000000)](https://git.io/streak-stats)
+
           
           
