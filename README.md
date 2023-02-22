@@ -7,7 +7,8 @@
 - ⚡ Fun fact: I am a massive supporter of Arsenal Football Club, and I really believe we will win the League this year! :fire:
 
 ### Languages and Tools
-      <div>
+
+<div>
       
       <img src="https://github.com/devicons/devicon/blob/master/icons/Kotlin/kotlin-plain-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java " width="40" height="40"/>&nbsp;
@@ -19,6 +20,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
        
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>
-      </div>
+</div>
           
           
