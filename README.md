@@ -28,5 +28,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaeme-olise&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+![Olise's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwaeme-olise&show_icons=true&theme=dark&background=000000)
+
           
           
