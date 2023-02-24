@@ -26,7 +26,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nwaeme-olise&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaeme-olise&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaeme-olise&theme=dark&background=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Olise's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwaeme-olise&show_icons=true&theme=dark&background=000000)
 
